@@ -1,0 +1,13 @@
+name: kwarts
+version: 0.1.0
+
+authors:
+  - Michael Hinton <hinton@schedmd.com>
+
+targets:
+  kwarts:
+    main: src/kwarts.cr
+
+crystal: 0.27.2
+
+license: MIT
